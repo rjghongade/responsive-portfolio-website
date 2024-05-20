@@ -67,6 +67,6 @@ If you have any questions or suggestions, feel free to contact me at [rajughonga
 Thank you for visiting my portfolio website repository!
 
 
-[screen-capture (1).webm](https://github.com/rjghongade/responsive-portfolio-website/blob/main/Record.webm)
+[screen-capture (1).webm](https://github.com/rjghongade/responsive-portfolio-website/assets/105046011/91d00bc5-5c32-4162-9ba6-ccf063ed6bdb)
 
 
